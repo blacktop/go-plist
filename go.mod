@@ -1,4 +1,4 @@
-module howett.net/plist
+module github.com/blacktop/go-plist
 
 require (
 	// for cmd/ply
