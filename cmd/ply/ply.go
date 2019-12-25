@@ -16,7 +16,7 @@ import (
 
 	"github.com/jessevdk/go-flags"
 	"gopkg.in/yaml.v1"
-	"howett.net/plist"
+	"github.com/blacktop/go-plist"
 )
 
 //import "github.com/mgutz/ansi"
